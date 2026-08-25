@@ -538,8 +538,8 @@ button {
   inset: 0;
   z-index: 3;
   display: flex;
-  align-items: flex-end;
-  padding-bottom: 20vh;
+  align-items: center;
+  padding-bottom: 16vh;
 }
 
 .hero-content {
